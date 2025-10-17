@@ -31,7 +31,10 @@ Developing and maintaining client-facing applications with focus on code quality
 
 ## Featured Work
 
-### [Safeguru](https://safeguru.com/)
+### [SafeGuru.com](https://safeguru.com)
+Enterprise web application built with modern technologies, delivering comprehensive safety solutions and resources for industrial environments.
+
+### [Personal Portfolio](https://github.com/Frankovg/MyWebPortfolio2.0)
 Professional portfolio website built with Next.js and TypeScript, demonstrating modern web development practices and design principles.
 
 *Note: Due to confidentiality agreements, most client and company projects are not publicly available.*
