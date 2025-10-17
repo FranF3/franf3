@@ -51,4 +51,4 @@ For personal projects and experimental work, visit my hobby account: [Frankovg](
 
 ---
 
-*Available for professional opportunities and collaboration.*
+<!-*Available for professional opportunities and collaboration.*-->
