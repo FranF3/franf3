@@ -1,6 +1,6 @@
 ![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/in-banner.png)
 
-# Franco Amoroso
+**Franco Amoroso**
 ### Front-End Developer | UX/UI Designer | Industrial Designer
 
 ---
