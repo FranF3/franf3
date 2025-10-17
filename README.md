@@ -31,7 +31,7 @@ Developing and maintaining client-facing applications with focus on code quality
 
 ## Featured Work
 
-### [SafeGuru.com](https://safeguru.com)
+### [Safeguru](https://safeguru.com)
 Enterprise web application built with modern technologies, delivering comprehensive safety solutions and resources for industrial environments.
 
 ### [Personal Portfolio](https://github.com/Frankovg/MyWebPortfolio2.0)
