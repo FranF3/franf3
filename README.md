@@ -31,7 +31,7 @@ Developing and maintaining client-facing applications with focus on code quality
 
 ## Featured Work
 
-**Safeguru** - [Go to site](https://safeguru.com))
+**Safeguru** - [Visit Website](https://safeguru.com)
 
 Enterprise web application built with modern technologies, delivering comprehensive safety solutions and resources for industrial environments.
 
