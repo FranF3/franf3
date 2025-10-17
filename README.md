@@ -49,6 +49,6 @@ For personal projects and experimental work, visit my hobby account: [Frankovg](
 🌐 **Portfolio:** [www.franamoroso.com](https://www.franamoroso.com/)  
 💼 **LinkedIn:** [linkedin.com/in/francoamoroso](https://www.linkedin.com/in/francoamoroso/)
 
----
+[---]: #
 
 [*Available for professional opportunities and collaboration.*]: #
