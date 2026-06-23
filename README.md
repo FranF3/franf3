@@ -1,7 +1,7 @@
 ![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/in-banner-2.png)
 
 **Franco Amoroso**
-### Front-End Developer | UX/UI Designer | Industrial Designer
+### Full-stack Developer | UX/UI Designer 
 
 ---
 
@@ -14,13 +14,13 @@ Currently serving as Front-End Developer at [A-SAFE Digital](https://asafedigita
 ## Core Competencies
 
 **Frontend Development**  
-TypeScript • React • Next.js • Tailwind CSS • Responsive Design • Performance Optimization
+TypeScript • React • Next.js • Tailwind CSS • Inertia • Hotwire • React Native
 
 **Backend & Database**  
-Node.js • Express • Prisma • SQL • RESTful APIs
+Node.js • Express • Prisma • Ruby on Rails • Supabase
 
 **Design & Tools**  
-Figma • Git • Adobe Creative Suite • UI/UX Design • Design Systems
+Figma • Git • Adobe Creative Suite • Claude Code
 
 ## Current Role
 
